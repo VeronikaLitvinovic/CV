@@ -1,0 +1,36 @@
+{
+    "skills": [
+      { "name": "HTML", "level": "Experienced" },
+      { "name": "CSS", "level": "Experienced" },
+      { "name": "JavaScript", "level": "Intermediate" },
+      { "name": "React", "level": "Intermediate" },
+      { "name": "C++", "level": "Intermediate" },
+      { "name": "MySQL", "level": "Basic" }
+    ],
+    "projects": [
+      {
+        "name": "Routing",
+        "description": "A multi-page React application using an external API and react-router-dom. Users can view the list of users, detailed information about users, photo albums and photos.",
+        "imageSrc": "./images/Routing.png",
+        "githubUrl": "https://github.com/VeronikaLitvinovic/Routing"
+      },
+      {
+        "name": "Lamoda",
+        "description": "The Lamoda project is an online store with filtering and sorting of products. Filters by substring, color, and category. Sort by price and rating.",
+        "imageSrc": "./images/Lamoda.png",
+        "githubUrl": "https://github.com/VeronikaLitvinovic/Lamoda"
+      },
+      {
+        "name": "TODO List",
+        "description": "Implementation of TODO List with an input field, adding, deleting and filtering tasks, as well as with the ability to sort.",
+        "imageSrc": "./images/ToDo.png",
+        "githubUrl": "https://github.com/VeronikaLitvinovic/ToDoList"
+      },
+      {
+        "name": "Notion",
+        "description": "A multi-user application for creating and managing notes. Users can create, delete and edit their notes. The Tailwind CSS library is used for styling.",
+        "imageSrc": "./images/Notion.png",
+        "githubUrl": "https://github.com/VeronikaLitvinovic/Notion"
+      }
+    ]
+  }
