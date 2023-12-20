@@ -19,7 +19,7 @@ export default function About() {
                   <p>2+ years Frontend Development</p>
                 </div>
               </div>
-              <div className=" flex mr-10 items-center">
+              <div className=" flex mb-8 mr-10 items-center">
                 <img
                   src="./images/education.png"
                   alt="Education icon"
